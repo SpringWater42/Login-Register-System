@@ -1,6 +1,7 @@
 let loginBtn = document.getElementById("loginBtn");
 let registerBtn = document.getElementById("registerBtn");
 let details = [
+  //Hard coded for testing//
   {
     email: "test@gmail.com",
     password: "zxcvbnma",
